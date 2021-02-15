@@ -36,5 +36,5 @@ public class MultiplyList implements Iterable<Integer> {
         };
         return iterator;
     }
-        
+
 }

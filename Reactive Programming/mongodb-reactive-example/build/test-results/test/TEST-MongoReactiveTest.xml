@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MongoReactiveTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-12T15:47:30" hostname="PSLT4053" time="0.341">
+  <properties/>
+  <testcase name="findWithProyectingFieldCollections()" classname="MongoReactiveTest" time="0.341"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[feb. 12, 2021 10:47:30 A. M. com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+feb. 12, 2021 10:47:30 A. M. com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by com.mongodb.async.client.ClientSessionHelper$1@2bfcfe4d from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+]]></system-err>
+</testsuite>
